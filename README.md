@@ -4,6 +4,8 @@ This starter project is build upon the (awesome) [Astro Static Site Builder](htt
 
 [Live demo](https://starter.accessible-astro.dev)
 
+123
+
 ## Getting started
 Run the following commands in your project folder to get started:
 ```console
